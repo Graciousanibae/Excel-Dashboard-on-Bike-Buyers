@@ -1,20 +1,20 @@
-# Excel-Dashboard-on-Bike-Buye
+# Excel-Dashboard-on-Bike-Buyers
 # Introduction
-As part of assessment in the Data Analytics class organized by PSP Analytics, one of the analytics projects I’ll be working on is the Microfinance Loan Credit Dataset.The Microfinance Loan Credit Dataset contains the Loan_ID, Mode of application, loan_status, Principal, terms, effective_date, due_date, paid_off_time and other data of the Microfinance Loan Credit. The goal of this work is to analyze the Microfinance Loan Credit performance and to uncover insights to be used for the business growth.
+As part of assessment in the Data Analytics class organized by PSP Analytics, one of the analytics projects I’ll be working on is the Bike Buyers Dataset.The Bike Buyers Dataset contains the ID,	Marital Status,	Gender,	Income,	Children,	Education,	Occupation and other data of the Bike Buyers. The goal of this work is to analyze the Bike Buyers performance and to uncover insights to be used for the business growth.
 
 # Data Sourcing
 This dataset used in this work is gotten from the Data Analytics Class announcement channel, which was posted by Mr. Kingsley Adisa.
 
 # Data Preparation
-I will load the dataset in excel format into powerbi. If data is clean, I can just load it directly or transform it to clean it on PowerBi.
+I will load the dataset into MS excel.
 
 # Data Cleaning/Transformation
 Here, I check if the format of each column is correct and correct it were necessary. I also address inconsistencies in the columns to ensure a more accurate dataset for analysis.
 
 # Data Exploration/Visualization
-This is where I answered specific business questions for loan performance analysis using charts and tiles. Some of these questions include:
+This is where I answered specific business questions for bike buyers performance, analysis using charts and tiles. Some of these questions include:
 
-Total Loan Amount MAX.Amount Paid Total Amount Owed Count of Defaults Total no.of Payers
+The average income of each gender and their bike purchase history, Distance travelled by commuters and bike purchas, Age bracket and bike purchase.
 
 # KEY PERFORMANCE INDICATORS (KPI)
 Before going ahead to answer the question, I first need to specify the KPI (Key Performance Indicators). The KPI include the Total Loan Amount, MAX. Amount Paid, Count of Defaults,Total Amount Owed and Total No. Payers. This is done by creating measures and using DAX to calculate the Total Loan Amount, MAX. Amount Paid, Count of Defaults, Total Amount Owed and Total No. Payers
